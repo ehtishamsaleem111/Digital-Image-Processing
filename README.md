@@ -6,7 +6,7 @@ This repository contains various tasks and implementations from my Digital Image
 
 3. Added image enhancement tasks for medical scans, license plates, satellite images, and old manuscripts ( Image_Processing_Techniques_in_Spatial_Domain.ipynb )
 
-
+4. Introduction to Bit-Plane Slicing, Histrogram Processing, Histogram Equalization and Transformation Functions
 
 
 
