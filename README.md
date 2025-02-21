@@ -5,10 +5,10 @@ This repository contains a collection of Digital Image Processing (DIP) tasks an
 
 ## **Contents**
 1. Parking Lot Image Processing
- * Grayscale conversion
- * Cropping
- * White space analysis
- * Bounding box detection
+    * Grayscale conversion
+    * Cropping
+    * White space analysis
+    * Bounding box detection
 2. Traffic Sign Detection & Smart Surveillance
  * Preprocessing and segmentation
  * Image processing for traffic sign recognition
