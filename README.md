@@ -1,14 +1,29 @@
-# Digital-Image-Processing
-This repository contains various tasks and implementations from my Digital Image Processing (DIP) lab. It includes image transformations, filtering techniques, edge detection, morphological operations, and other essential DIP concepts. Each task is documented with code and explanations.
-1. Added parking lot image processing tasks: grayscale conversion, cropping, white space analysis, and bounding box drawing. 
-
-2. Added image processing tasks for traffic sign detection, satellite imaging, and smart surveillance with preprocessing and segmentation steps. 
-
-3. Added image enhancement tasks for medical scans, license plates, satellite images, and old manuscripts 
-
-4. Introduction to Bit-Plane Slicing, Histrogram Processing, Histogram Equalization and Transformation Functions
-
-5. A Notebook implementing noise reduction, edge enhancement, and image restoration techniques for X-ray analysis, autonomous driving, photo restoration, and fingerprint recognition, ensuring improved clarity and feature extraction.
 
 
+# **Digital Image Processing**
+This repository contains a collection of Digital Image Processing (DIP) tasks and implementations from my DIP lab. It covers fundamental and advanced image processing techniques, including transformations, filtering, edge detection, morphological operations, and enhancement methods. Each notebook includes well-documented code and explanations to facilitate understanding.
 
+## **Contents**
+1. Parking Lot Image Processing
+ * Grayscale conversion
+ * Cropping
+ * White space analysis
+ * Bounding box detection
+2. Traffic Sign Detection & Smart Surveillance
+ * Preprocessing and segmentation
+ * Image processing for traffic sign recognition
+ * Satellite imaging and intelligent monitoring
+3. Image Enhancement Techniques
+ * Medical scan enhancement
+ * License plate recognition
+ * Satellite image processing
+ * Restoration of old manuscripts
+4. Fundamental DIP Concepts
+ * Bit-plane slicing
+ * Histogram processing & equalization
+ * Transformation functions
+5. Advanced Image Restoration & Feature Extraction
+ * Noise reduction and edge enhancement
+ * X-ray image analysis
+ * Image restoration for autonomous driving, photo recovery, and fingerprint recognition
+> Each notebook is designed to provide a hands-on understanding of essential DIP concepts, making it a valuable resource for students and researchers.
