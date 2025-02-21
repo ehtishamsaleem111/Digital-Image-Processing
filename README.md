@@ -8,7 +8,7 @@ This repository contains various tasks and implementations from my Digital Image
 
 4. Introduction to Bit-Plane Slicing, Histrogram Processing, Histogram Equalization and Transformation Functions
 
-5. A script implementing noise reduction, edge enhancement, and image restoration techniques for X-ray analysis, autonomous driving, photo restoration, and fingerprint recognition, ensuring improved clarity and feature extraction.
+5. A Notebook implementing noise reduction, edge enhancement, and image restoration techniques for X-ray analysis, autonomous driving, photo restoration, and fingerprint recognition, ensuring improved clarity and feature extraction.
 
 
 
