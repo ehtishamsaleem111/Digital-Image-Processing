@@ -1,6 +1,6 @@
 
 # **Digital Image Processing**
-This repository contains a collection of Digital Image Processing (DIP) tasks and implementations from my DIP lab. It covers fundamental and advanced image processing techniques, including transformations, filtering, edge detection, morphological operations, and enhancement methods. Each notebook includes well-documented code and explanations to facilitate understanding.
+> This repository contains a collection of Digital Image Processing (DIP) tasks and implementations from my DIP lab. It covers fundamental and advanced image processing techniques, including transformations, filtering, edge detection, morphological operations, and enhancement methods. Each notebook includes well-documented code and explanations to facilitate understanding.
 
 ## **Contents**
 ### 1. Parking Lot Image Processing
