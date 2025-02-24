@@ -25,4 +25,5 @@ This repository contains a collection of Digital Image Processing (DIP) tasks an
     * Noise reduction and edge enhancement
     * X-ray image analysis
     * Image restoration for autonomous driving, photo recovery, and fingerprint recognition
+
 > Each notebook is designed to provide a hands-on understanding of essential DIP concepts, making it a valuable resource for students and researchers.
