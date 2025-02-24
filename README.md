@@ -9,9 +9,9 @@ This repository contains a collection of Digital Image Processing (DIP) tasks an
     * White space analysis
     * Bounding box detection
 ### 2. Traffic Sign Detection & Smart Surveillance
-    * Preprocessing and segmentation
-    * Image processing for traffic sign recognition
-    * Satellite imaging and intelligent monitoring
+* Preprocessing and segmentation
+* Image processing for traffic sign recognition
+* Satellite imaging and intelligent monitoring
 ### 3. Image Enhancement Techniques
     * Medical scan enhancement
     * License plate recognition
